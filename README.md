@@ -1,4 +1,4 @@
-节电池：
+节点池：
 https://etproxypool.ga
 https://ss.dswang.ga:8443
 https://free.dswang.ga/
